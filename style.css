@@ -1,0 +1,40 @@
+#title {
+  text-align: center;
+}
+h1 {
+  padding-top: 20px;
+}
+#main {
+  max-width: 100%;
+  max-heght: 100%;
+  background-color: #bdbdbd;
+}
+#img-div {
+  max-width: 80%;
+  max-height: 80%;
+  background-color: white;
+  margin: auto;
+}
+#image {
+  display: block;
+  margin: 0 auto;
+}
+#img-caption {
+  padding: 15px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  padding: 35px;
+}
+#info {
+  margin-left: 370px;
+  width: 600px;
+}
+#info li {
+  padding: 10px;
+}
